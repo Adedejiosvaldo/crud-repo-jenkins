@@ -1,4 +1,4 @@
-testing 123
+testing
 # DevOps Mentor Task
 
 ## Presentation Video
