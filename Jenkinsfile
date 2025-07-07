@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         SCANNER_HOME = tool 'sonar-scanner'
-        SONAR_TOKEN = credentials('SONAR-TOKEN')
+        SONAR_TOKEN = credentials('sonar-token')
         SONAR_ORGANIZATION = 'customer-service-ai-chatbot'
         SONAR_PROJECT_KEY = 'customer-service-ai-chatbot_ci-jenkins'
     }
