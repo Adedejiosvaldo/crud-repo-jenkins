@@ -1,4 +1,4 @@
-testing Devos
+testing
 # DevOps Mentor Task
 
 ## Presentation Video
