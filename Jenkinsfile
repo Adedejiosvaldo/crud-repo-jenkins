@@ -17,7 +17,7 @@ pipeline {
         stage('Code-Analysis') {
             steps {
                 withSonarQubeEnv('SonarCloud') {
-                    sh '''$sonar-scanner \
+                    sh '''$SCANNER_HOME/bin/sonar-scanner \
   -Dsonar.organization=customer-service-ai-chatbot \
   -Dsonar.projectKey=customer-service-ai-chatbot_ci-jenkins \
   -Dsonar.sources=. \
