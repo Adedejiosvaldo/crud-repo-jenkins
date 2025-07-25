@@ -8,10 +8,9 @@
   },
   "keywords": [
     "nodejs",
-    "mysql",
     "crud"
   ],
-  "author": "Josep hdewunmi",
+  "author": "Josep Hdwunmi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
