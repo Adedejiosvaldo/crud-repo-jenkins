@@ -11,7 +11,7 @@
     "mysql",
     "crud"
   ],
-  "author": "Josephdewunmi",
+  "author": "Josep hdewunmi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
