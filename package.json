@@ -12,7 +12,7 @@
     "crud",
     "express"
   ],
-  "author": "Joseph Adedeji Adewunmi",
+  "author": "Joseph Adewunmi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
