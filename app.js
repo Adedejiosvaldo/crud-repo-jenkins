@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 
 
-console.log("wp")
+console.log("wp DOMAIN")
 const app = express();
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
