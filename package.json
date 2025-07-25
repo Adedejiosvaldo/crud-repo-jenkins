@@ -9,7 +9,7 @@
   "keywords": [
     "crud"
   ],
-  "author": "JosepHdwunmi",
+  "author": "JosepH dwunmi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
