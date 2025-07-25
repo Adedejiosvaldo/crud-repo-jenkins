@@ -10,7 +10,6 @@
     "nodejs",
     "mysql",
     "crud",
-    "express"
   ],
   "author": "Joseph Adewunmi",
   "license": "ISC",
