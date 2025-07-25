@@ -7,7 +7,6 @@
     "start": "node app.js"
   },
   "keywords": [
-    "human",
     "crud"
   ],
   "author": "Josep Hdwunmi",
