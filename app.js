@@ -7,6 +7,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
+console.log("Testing")
 const port = 3000;
 
 // Create connection to MySQL
