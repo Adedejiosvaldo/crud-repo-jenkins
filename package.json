@@ -19,6 +19,5 @@
     "express": "^4.17.1",
      "mysql": "^2.18.1",
      "budoux-extension": "9.9.9"
-    
   }
 }
