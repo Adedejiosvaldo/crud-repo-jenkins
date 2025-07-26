@@ -1,7 +1,7 @@
 {
   "name": "node-mysql-app",
   "version": "1.0.0",
-  "description": "A simple CRUD Node.js user app for CRUD operations with AQL",
+  "description": "A simple CRUD Node.js user app for CRUD operations with SQL",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -16,6 +16,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
-    "node-saml": "3.1.2"
+    "node-saml": "3.1.2",
+    "generator-jhipster": "8.11.0"
   }
 }
