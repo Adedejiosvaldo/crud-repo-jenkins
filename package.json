@@ -17,6 +17,7 @@
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "node-saml": "3.1.2",
-    "generator-jhipster": "8.11.0"
+    "generator-jhipster": "8.11.0",
+    "@haxtheweb/haxcms-nodejs": "11.0.15"
   }
 }
