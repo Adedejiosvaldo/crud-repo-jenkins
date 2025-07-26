@@ -1,7 +1,7 @@
 {
   "name": "node-mysql-app",
   "version": "1.0.0",
-  "description": "A simple CRUD Node.js app for operations with",
+  "description": "A simple CRUD Node.js app for CRUD operations with",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
